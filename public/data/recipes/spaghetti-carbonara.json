@@ -1,0 +1,116 @@
+{
+  "id": "recipe_4",
+  "slug": "spaghetti-carbonara",
+  "title": "Spaghetti Carbonara",
+  "description": "A traditional Roman pasta dish made with eggs, hard cheese, cured pork, and black pepper.",
+  "category": "Festival Recipes",
+  "cuisine": "Chinese",
+  "difficulty": "Easy",
+  "preparationTime": 23,
+  "cookingTime": 72,
+  "servings": 7,
+  "ingredients": [
+    "400g Spaghetti",
+    "150g Pancetta or Guanciale",
+    "3 large Eggs",
+    "1 cup Pecorino Romano, grated",
+    "2 cloves Garlic",
+    "Black pepper, freshly ground",
+    "Salt"
+  ],
+  "steps": [
+    "Boil pasta in salted water until al dente.",
+    "Crisp the pancetta in a pan with garlic, then discard garlic.",
+    "Whisk eggs and cheese in a bowl with a generous amount of black pepper.",
+    "Drain pasta (reserve some water) and toss it in the pan with the pancetta off the heat.",
+    "Quickly mix in the egg mixture, adding pasta water to create a creamy sauce. Serve immediately."
+  ],
+  "nutrition": {
+    "calories": 291,
+    "protein": 22,
+    "carbs": 26,
+    "fat": 14,
+    "fiber": 16,
+    "sugar": 13,
+    "sodium": 456,
+    "calcium": 151
+  },
+  "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=800&auto=format&fit=crop",
+  "thumbnail": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=400&auto=format&fit=crop",
+  "rating": 4.4,
+  "seoTitle": "Spaghetti Carbonara Recipe - Best Chinese Festival Recipes",
+  "seoDescription": "Learn how to make the best Spaghetti Carbonara at home. A traditional Roman pasta dish made with eggs, hard cheese, cured pork, and black pepper.",
+  "keywords": [
+    "spaghetti carbonara",
+    "chinese",
+    "festival recipes",
+    "recipe",
+    "food",
+    "cooking"
+  ],
+  "totalTime": 95,
+  "reviewCount": 1966,
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "title": "Prep Work",
+      "description": "Boil pasta in salted water until al dente.",
+      "estimatedTime": "11 mins"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Cooking Process",
+      "description": "Crisp the pancetta in a pan with garlic, then discard garlic.",
+      "estimatedTime": "5 mins"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Cooking Process",
+      "description": "Whisk eggs and cheese in a bowl with a generous amount of black pepper.",
+      "estimatedTime": "10 mins"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Cooking Process",
+      "description": "Drain pasta (reserve some water) and toss it in the pan with the pancetta off the heat.",
+      "estimatedTime": "6 mins"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Finishing Touches",
+      "description": "Quickly mix in the egg mixture, adding pasta water to create a creamy sauce. Serve immediately.",
+      "estimatedTime": "6 mins"
+    }
+  ],
+  "cookingTips": [
+    "For the best Spaghetti Carbonara, always use fresh, high-quality ingredients.",
+    "Do not rush the cooking process; allow the flavors to meld naturally.",
+    "Adjust the spices according to your personal taste preference."
+  ],
+  "faq": [
+    {
+      "question": "Can I make Spaghetti Carbonara ahead of time?",
+      "answer": "Yes, you can prepare the ingredients in advance, but it's best served fresh."
+    },
+    {
+      "question": "How do I store the leftovers?",
+      "answer": "Store in an airtight container in the refrigerator for up to 3 days."
+    },
+    {
+      "question": "Can I freeze this dish?",
+      "answer": "It is generally not recommended to freeze this as it may alter the texture."
+    }
+  ],
+  "relatedRecipes": [
+    {
+      "title": "Garlic Bread",
+      "slug": "garlic-bread",
+      "image": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?q=80&w=400&auto=format&fit=crop"
+    },
+    {
+      "title": "Cold Coffee",
+      "slug": "cold-coffee",
+      "image": "https://images.unsplash.com/photo-1461023058943-07cb14a6edcb?q=80&w=400&auto=format&fit=crop"
+    }
+  ]
+}

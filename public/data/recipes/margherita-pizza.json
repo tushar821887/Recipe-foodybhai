@@ -1,0 +1,115 @@
+{
+  "id": "recipe_3",
+  "slug": "margherita-pizza",
+  "title": "Margherita Pizza",
+  "description": "A classic Italian pizza featuring a perfectly baked crust topped with simple, fresh ingredients: tomato sauce, mozzarella cheese, and fresh basil.",
+  "category": "Breakfast",
+  "cuisine": "Italian",
+  "difficulty": "Hard",
+  "preparationTime": 21,
+  "cookingTime": 34,
+  "servings": 6,
+  "ingredients": [
+    "1 Pizza dough base",
+    "1/2 cup Pizza sauce (tomato)",
+    "200g Fresh Mozzarella, sliced",
+    "Fresh Basil leaves",
+    "1 tbsp Olive oil",
+    "Pinch of salt and black pepper"
+  ],
+  "steps": [
+    "Preheat oven to 250°C (480°F) or highest setting.",
+    "Stretch the pizza dough on a floured surface.",
+    "Spread an even layer of pizza sauce over the dough.",
+    "Distribute mozzarella slices evenly and drizzle with olive oil.",
+    "Bake for 10-12 minutes until crust is golden. Top with fresh basil before serving."
+  ],
+  "nutrition": {
+    "calories": 485,
+    "protein": 33,
+    "carbs": 17,
+    "fat": 26,
+    "fiber": 10,
+    "sugar": 13,
+    "sodium": 326,
+    "calcium": 33
+  },
+  "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=800&auto=format&fit=crop",
+  "thumbnail": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=400&auto=format&fit=crop",
+  "rating": 4,
+  "seoTitle": "Margherita Pizza Recipe - Best Italian Breakfast",
+  "seoDescription": "Learn how to make the best Margherita Pizza at home. A classic Italian pizza featuring a perfectly baked crust topped with simple, fresh ingredients: tomato sauce, mozzarella cheese, and fresh basil.",
+  "keywords": [
+    "margherita pizza",
+    "italian",
+    "breakfast",
+    "recipe",
+    "food",
+    "cooking"
+  ],
+  "totalTime": 55,
+  "reviewCount": 2823,
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "title": "Prep Work",
+      "description": "Preheat oven to 250°C (480°F) or highest setting.",
+      "estimatedTime": "13 mins"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Cooking Process",
+      "description": "Stretch the pizza dough on a floured surface.",
+      "estimatedTime": "11 mins"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Cooking Process",
+      "description": "Spread an even layer of pizza sauce over the dough.",
+      "estimatedTime": "10 mins"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Cooking Process",
+      "description": "Distribute mozzarella slices evenly and drizzle with olive oil.",
+      "estimatedTime": "7 mins"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Finishing Touches",
+      "description": "Bake for 10-12 minutes until crust is golden. Top with fresh basil before serving.",
+      "estimatedTime": "8 mins"
+    }
+  ],
+  "cookingTips": [
+    "For the best Margherita Pizza, always use fresh, high-quality ingredients.",
+    "Do not rush the cooking process; allow the flavors to meld naturally.",
+    "Adjust the spices according to your personal taste preference."
+  ],
+  "faq": [
+    {
+      "question": "Can I make Margherita Pizza ahead of time?",
+      "answer": "Yes, you can prepare the ingredients in advance, but it's best served fresh."
+    },
+    {
+      "question": "How do I store the leftovers?",
+      "answer": "Store in an airtight container in the refrigerator for up to 3 days."
+    },
+    {
+      "question": "Can I freeze this dish?",
+      "answer": "It is generally not recommended to freeze this as it may alter the texture."
+    }
+  ],
+  "relatedRecipes": [
+    {
+      "title": "Garlic Bread",
+      "slug": "garlic-bread",
+      "image": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?q=80&w=400&auto=format&fit=crop"
+    },
+    {
+      "title": "Cold Coffee",
+      "slug": "cold-coffee",
+      "image": "https://images.unsplash.com/photo-1461023058943-07cb14a6edcb?q=80&w=400&auto=format&fit=crop"
+    }
+  ]
+}

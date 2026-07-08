@@ -1,0 +1,50 @@
+/* Foody Bhai Recipes - Global Styles */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Poppins:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #FF6B35;
+  --color-secondary: #FFB703;
+  --color-accent: #2EC4B6;
+  --color-bg: #FAFAFA;
+  --color-text: #1F2937;
+
+  --font-sans: 'Inter', sans-serif;
+  --font-serif: 'Playfair Display', serif;
+  --font-ui: 'Poppins', sans-serif;
+
+  --color-black: #000;
+  --color-white: #fff;
+}
+
+@layer base {
+  :root {
+    --primary: #FF6B35;
+    --secondary: #FFB703;
+    --accent: #2EC4B6;
+    --background: #FAFAFA;
+    --text-color: #1F2937;
+  }
+
+  body {
+    @apply bg-[var(--background)] text-[var(--text-color)] font-sans antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif font-bold text-gray-900;
+  }
+}
+
+@layer utilities {
+  .glassmorphism {
+    @apply bg-white/70 backdrop-blur-md border border-white/20 shadow-[0_8px_32px_0_rgba(31,38,135,0.07)];
+  }
+
+  .hover-scale {
+    @apply transition-transform duration-300 hover:scale-[1.02];
+  }
+
+  .card-shadow {
+    @apply shadow-[0_10px_40px_-10px_rgba(0,0,0,0.08)];
+  }
+}

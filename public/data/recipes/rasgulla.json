@@ -1,0 +1,114 @@
+{
+  "id": "recipe_31",
+  "slug": "rasgulla",
+  "title": "Rasgulla",
+  "description": "A delightful and sweet Rasgulla to perfectly complete your meal.",
+  "category": "Desserts",
+  "cuisine": "Indian",
+  "difficulty": "Easy",
+  "preparationTime": 41,
+  "cookingTime": 99,
+  "servings": 4,
+  "ingredients": [
+    "1 cup Flour or Base ingredient",
+    "1/2 cup Sugar",
+    "1/4 cup Butter or Ghee",
+    "Flavoring (vanilla/cardamom)",
+    "Nuts for garnish"
+  ],
+  "steps": [
+    "Gather all ingredients and measure them accurately.",
+    "Mix the base ingredients together until a smooth consistency is reached.",
+    "Cook or bake according to standard dessert techniques until done.",
+    "Allow to cool slightly before the final assembly.",
+    "Garnish beautifully and serve as a sweet treat."
+  ],
+  "nutrition": {
+    "calories": 665,
+    "protein": 7,
+    "carbs": 47,
+    "fat": 16,
+    "fiber": 3,
+    "sugar": 12,
+    "sodium": 745,
+    "calcium": 60
+  },
+  "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=800&auto=format&fit=crop",
+  "thumbnail": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=400&auto=format&fit=crop",
+  "rating": 4.3,
+  "seoTitle": "Rasgulla Recipe - Best Indian Desserts",
+  "seoDescription": "Learn how to make the best Rasgulla at home. A delightful and sweet Rasgulla to perfectly complete your meal.",
+  "keywords": [
+    "rasgulla",
+    "indian",
+    "desserts",
+    "recipe",
+    "food",
+    "cooking"
+  ],
+  "totalTime": 140,
+  "reviewCount": 3812,
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "title": "Prep Work",
+      "description": "Gather all ingredients and measure them accurately.",
+      "estimatedTime": "11 mins"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Cooking Process",
+      "description": "Mix the base ingredients together until a smooth consistency is reached.",
+      "estimatedTime": "7 mins"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Cooking Process",
+      "description": "Cook or bake according to standard dessert techniques until done.",
+      "estimatedTime": "10 mins"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Cooking Process",
+      "description": "Allow to cool slightly before the final assembly.",
+      "estimatedTime": "9 mins"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Finishing Touches",
+      "description": "Garnish beautifully and serve as a sweet treat.",
+      "estimatedTime": "12 mins"
+    }
+  ],
+  "cookingTips": [
+    "For the best Rasgulla, always use fresh, high-quality ingredients.",
+    "Do not rush the cooking process; allow the flavors to meld naturally.",
+    "Adjust the spices according to your personal taste preference."
+  ],
+  "faq": [
+    {
+      "question": "Can I make Rasgulla ahead of time?",
+      "answer": "Yes, you can prepare the ingredients in advance, but it's best served fresh."
+    },
+    {
+      "question": "How do I store the leftovers?",
+      "answer": "Store in an airtight container in the refrigerator for up to 3 days."
+    },
+    {
+      "question": "Can I freeze this dish?",
+      "answer": "It is generally not recommended to freeze this as it may alter the texture."
+    }
+  ],
+  "relatedRecipes": [
+    {
+      "title": "Garlic Bread",
+      "slug": "garlic-bread",
+      "image": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?q=80&w=400&auto=format&fit=crop"
+    },
+    {
+      "title": "Cold Coffee",
+      "slug": "cold-coffee",
+      "image": "https://images.unsplash.com/photo-1461023058943-07cb14a6edcb?q=80&w=400&auto=format&fit=crop"
+    }
+  ]
+}

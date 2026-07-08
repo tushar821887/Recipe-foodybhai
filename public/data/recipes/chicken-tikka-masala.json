@@ -1,0 +1,117 @@
+{
+  "id": "recipe_2",
+  "slug": "chicken-tikka-masala",
+  "title": "Chicken Tikka Masala",
+  "description": "Roasted marinated chicken chunks in a spiced curry sauce, known for its vibrant orange color and rich flavor.",
+  "category": "Festival Recipes",
+  "cuisine": "Italian",
+  "difficulty": "Hard",
+  "preparationTime": 32,
+  "cookingTime": 28,
+  "servings": 2,
+  "ingredients": [
+    "500g Boneless Chicken",
+    "1 cup Yogurt",
+    "2 tbsp Tikka masala powder",
+    "1 cup Tomato puree",
+    "1 Onion, chopped",
+    "1/2 cup Heavy cream",
+    "2 tbsp Oil",
+    "Coriander leaves for garnish"
+  ],
+  "steps": [
+    "Marinate chicken with yogurt and half the tikka masala for 2 hours.",
+    "Grill or pan-fry the chicken until cooked and slightly charred.",
+    "In a separate pan, sauté onions, add remaining spices and tomato puree.",
+    "Simmer the sauce until thick, then add the cooked chicken.",
+    "Stir in cream and simmer for 3 minutes. Garnish with coriander."
+  ],
+  "nutrition": {
+    "calories": 513,
+    "protein": 7,
+    "carbs": 57,
+    "fat": 9,
+    "fiber": 15,
+    "sugar": 19,
+    "sodium": 345,
+    "calcium": 81
+  },
+  "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=800&auto=format&fit=crop",
+  "thumbnail": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=400&auto=format&fit=crop",
+  "rating": 4.1,
+  "seoTitle": "Chicken Tikka Masala Recipe - Best Italian Festival Recipes",
+  "seoDescription": "Learn how to make the best Chicken Tikka Masala at home. Roasted marinated chicken chunks in a spiced curry sauce, known for its vibrant orange color and rich flavor.",
+  "keywords": [
+    "chicken tikka masala",
+    "italian",
+    "festival recipes",
+    "recipe",
+    "food",
+    "cooking"
+  ],
+  "totalTime": 60,
+  "reviewCount": 2600,
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "title": "Prep Work",
+      "description": "Marinate chicken with yogurt and half the tikka masala for 2 hours.",
+      "estimatedTime": "6 mins"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Cooking Process",
+      "description": "Grill or pan-fry the chicken until cooked and slightly charred.",
+      "estimatedTime": "12 mins"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Cooking Process",
+      "description": "In a separate pan, sauté onions, add remaining spices and tomato puree.",
+      "estimatedTime": "13 mins"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Cooking Process",
+      "description": "Simmer the sauce until thick, then add the cooked chicken.",
+      "estimatedTime": "10 mins"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Finishing Touches",
+      "description": "Stir in cream and simmer for 3 minutes. Garnish with coriander.",
+      "estimatedTime": "11 mins"
+    }
+  ],
+  "cookingTips": [
+    "For the best Chicken Tikka Masala, always use fresh, high-quality ingredients.",
+    "Do not rush the cooking process; allow the flavors to meld naturally.",
+    "Adjust the spices according to your personal taste preference."
+  ],
+  "faq": [
+    {
+      "question": "Can I make Chicken Tikka Masala ahead of time?",
+      "answer": "Yes, you can prepare the ingredients in advance, but it's best served fresh."
+    },
+    {
+      "question": "How do I store the leftovers?",
+      "answer": "Store in an airtight container in the refrigerator for up to 3 days."
+    },
+    {
+      "question": "Can I freeze this dish?",
+      "answer": "It is generally not recommended to freeze this as it may alter the texture."
+    }
+  ],
+  "relatedRecipes": [
+    {
+      "title": "Garlic Bread",
+      "slug": "garlic-bread",
+      "image": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?q=80&w=400&auto=format&fit=crop"
+    },
+    {
+      "title": "Cold Coffee",
+      "slug": "cold-coffee",
+      "image": "https://images.unsplash.com/photo-1461023058943-07cb14a6edcb?q=80&w=400&auto=format&fit=crop"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": "recipe_39",
+  "slug": "mojito",
+  "title": "Mojito",
+  "description": "A refreshing and delicious Mojito perfect for any time of the day.",
+  "category": "Healthy Recipes",
+  "cuisine": "Italian",
+  "difficulty": "Hard",
+  "preparationTime": 43,
+  "cookingTime": 72,
+  "servings": 3,
+  "ingredients": [
+    "2 cups Base liquid (milk/water/soda)",
+    "2 tbsp Sweetener (sugar/honey)",
+    "Ice cubes",
+    "Flavoring extract or fresh fruits",
+    "Garnish (mint/nuts)"
+  ],
+  "steps": [
+    "Prepare your base ingredients and chill them.",
+    "Combine the liquid base and flavoring in a blender or shaker.",
+    "Blend or shake well until fully mixed and frothy.",
+    "Pour into a tall glass over ice cubes.",
+    "Garnish appropriately and serve immediately."
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 21,
+    "carbs": 25,
+    "fat": 32,
+    "fiber": 9,
+    "sugar": 16,
+    "sodium": 558,
+    "calcium": 152
+  },
+  "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=800&auto=format&fit=crop",
+  "thumbnail": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=400&auto=format&fit=crop",
+  "rating": 3.5,
+  "seoTitle": "Mojito Recipe - Best Italian Healthy Recipes",
+  "seoDescription": "Learn how to make the best Mojito at home. A refreshing and delicious Mojito perfect for any time of the day.",
+  "keywords": [
+    "mojito",
+    "italian",
+    "healthy recipes",
+    "recipe",
+    "food",
+    "cooking"
+  ],
+  "totalTime": 115,
+  "reviewCount": 902,
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "title": "Prep Work",
+      "description": "Prepare your base ingredients and chill them.",
+      "estimatedTime": "5 mins"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Cooking Process",
+      "description": "Combine the liquid base and flavoring in a blender or shaker.",
+      "estimatedTime": "12 mins"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Cooking Process",
+      "description": "Blend or shake well until fully mixed and frothy.",
+      "estimatedTime": "7 mins"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Cooking Process",
+      "description": "Pour into a tall glass over ice cubes.",
+      "estimatedTime": "10 mins"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Finishing Touches",
+      "description": "Garnish appropriately and serve immediately.",
+      "estimatedTime": "7 mins"
+    }
+  ],
+  "cookingTips": [
+    "For the best Mojito, always use fresh, high-quality ingredients.",
+    "Do not rush the cooking process; allow the flavors to meld naturally.",
+    "Adjust the spices according to your personal taste preference."
+  ],
+  "faq": [
+    {
+      "question": "Can I make Mojito ahead of time?",
+      "answer": "Yes, you can prepare the ingredients in advance, but it's best served fresh."
+    },
+    {
+      "question": "How do I store the leftovers?",
+      "answer": "Store in an airtight container in the refrigerator for up to 3 days."
+    },
+    {
+      "question": "Can I freeze this dish?",
+      "answer": "It is generally not recommended to freeze this as it may alter the texture."
+    }
+  ],
+  "relatedRecipes": [
+    {
+      "title": "Garlic Bread",
+      "slug": "garlic-bread",
+      "image": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?q=80&w=400&auto=format&fit=crop"
+    },
+    {
+      "title": "Cold Coffee",
+      "slug": "cold-coffee",
+      "image": "https://images.unsplash.com/photo-1461023058943-07cb14a6edcb?q=80&w=400&auto=format&fit=crop"
+    }
+  ]
+}

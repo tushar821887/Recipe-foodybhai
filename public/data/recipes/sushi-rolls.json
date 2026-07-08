@@ -1,0 +1,116 @@
+{
+  "id": "recipe_6",
+  "slug": "sushi-rolls",
+  "title": "Sushi Rolls",
+  "description": "Traditional Japanese maki sushi made with vinegared rice and fresh ingredients wrapped in nori seaweed.",
+  "category": "Healthy Recipes",
+  "cuisine": "Thai",
+  "difficulty": "Easy",
+  "preparationTime": 23,
+  "cookingTime": 106,
+  "servings": 3,
+  "ingredients": [
+    "2 cups Sushi rice, cooked",
+    "1/4 cup Sushi vinegar",
+    "4 Nori (seaweed) sheets",
+    "100g Sashimi-grade salmon or tuna",
+    "1 Cucumber, julienned",
+    "1 Avocado, sliced",
+    "Soy sauce and wasabi for serving"
+  ],
+  "steps": [
+    "Season warm cooked rice with sushi vinegar and let it cool.",
+    "Place a nori sheet on a bamboo mat and spread a thin layer of rice over it.",
+    "Arrange fish, cucumber, and avocado in a line across the bottom third of the rice.",
+    "Roll the sushi tightly using the bamboo mat.",
+    "Slice into 6-8 pieces with a wet, sharp knife. Serve with soy sauce."
+  ],
+  "nutrition": {
+    "calories": 670,
+    "protein": 37,
+    "carbs": 41,
+    "fat": 31,
+    "fiber": 11,
+    "sugar": 5,
+    "sodium": 219,
+    "calcium": 164
+  },
+  "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=800&auto=format&fit=crop",
+  "thumbnail": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=400&auto=format&fit=crop",
+  "rating": 4.9,
+  "seoTitle": "Sushi Rolls Recipe - Best Thai Healthy Recipes",
+  "seoDescription": "Learn how to make the best Sushi Rolls at home. Traditional Japanese maki sushi made with vinegared rice and fresh ingredients wrapped in nori seaweed.",
+  "keywords": [
+    "sushi rolls",
+    "thai",
+    "healthy recipes",
+    "recipe",
+    "food",
+    "cooking"
+  ],
+  "totalTime": 129,
+  "reviewCount": 3057,
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "title": "Prep Work",
+      "description": "Season warm cooked rice with sushi vinegar and let it cool.",
+      "estimatedTime": "7 mins"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Cooking Process",
+      "description": "Place a nori sheet on a bamboo mat and spread a thin layer of rice over it.",
+      "estimatedTime": "8 mins"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Cooking Process",
+      "description": "Arrange fish, cucumber, and avocado in a line across the bottom third of the rice.",
+      "estimatedTime": "8 mins"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Cooking Process",
+      "description": "Roll the sushi tightly using the bamboo mat.",
+      "estimatedTime": "8 mins"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Finishing Touches",
+      "description": "Slice into 6-8 pieces with a wet, sharp knife. Serve with soy sauce.",
+      "estimatedTime": "9 mins"
+    }
+  ],
+  "cookingTips": [
+    "For the best Sushi Rolls, always use fresh, high-quality ingredients.",
+    "Do not rush the cooking process; allow the flavors to meld naturally.",
+    "Adjust the spices according to your personal taste preference."
+  ],
+  "faq": [
+    {
+      "question": "Can I make Sushi Rolls ahead of time?",
+      "answer": "Yes, you can prepare the ingredients in advance, but it's best served fresh."
+    },
+    {
+      "question": "How do I store the leftovers?",
+      "answer": "Store in an airtight container in the refrigerator for up to 3 days."
+    },
+    {
+      "question": "Can I freeze this dish?",
+      "answer": "It is generally not recommended to freeze this as it may alter the texture."
+    }
+  ],
+  "relatedRecipes": [
+    {
+      "title": "Garlic Bread",
+      "slug": "garlic-bread",
+      "image": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?q=80&w=400&auto=format&fit=crop"
+    },
+    {
+      "title": "Cold Coffee",
+      "slug": "cold-coffee",
+      "image": "https://images.unsplash.com/photo-1461023058943-07cb14a6edcb?q=80&w=400&auto=format&fit=crop"
+    }
+  ]
+}

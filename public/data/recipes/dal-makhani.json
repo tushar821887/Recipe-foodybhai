@@ -1,0 +1,116 @@
+{
+  "id": "recipe_11",
+  "slug": "dal-makhani",
+  "title": "Dal Makhani",
+  "description": "A slow-cooked, rich and creamy lentil dish from Punjab, made with black lentils and kidney beans.",
+  "category": "Lunch",
+  "cuisine": "Mexican",
+  "difficulty": "Hard",
+  "preparationTime": 17,
+  "cookingTime": 77,
+  "servings": 8,
+  "ingredients": [
+    "1 cup Whole black lentils (Urad dal)",
+    "1/4 cup Kidney beans (Rajma)",
+    "1/2 cup Tomato puree",
+    "1/4 cup Heavy cream",
+    "3 tbsp Butter",
+    "1 tbsp Ginger-garlic paste",
+    "1 tsp Garam masala"
+  ],
+  "steps": [
+    "Soak lentils and kidney beans overnight, then pressure cook until very soft.",
+    "Heat butter in a pan, add ginger-garlic paste and sauté for a minute.",
+    "Add tomato puree and cook until the raw smell disappears.",
+    "Mash the cooked lentils slightly, add to the pan, and simmer on low heat for 30-40 minutes.",
+    "Stir in cream and garam masala. Serve hot with naan or rice."
+  ],
+  "nutrition": {
+    "calories": 373,
+    "protein": 13,
+    "carbs": 27,
+    "fat": 13,
+    "fiber": 7,
+    "sugar": 20,
+    "sodium": 377,
+    "calcium": 108
+  },
+  "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=800&auto=format&fit=crop",
+  "thumbnail": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=400&auto=format&fit=crop",
+  "rating": 3.7,
+  "seoTitle": "Dal Makhani Recipe - Best Mexican Lunch",
+  "seoDescription": "Learn how to make the best Dal Makhani at home. A slow-cooked, rich and creamy lentil dish from Punjab, made with black lentils and kidney beans.",
+  "keywords": [
+    "dal makhani",
+    "mexican",
+    "lunch",
+    "recipe",
+    "food",
+    "cooking"
+  ],
+  "totalTime": 94,
+  "reviewCount": 1803,
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "title": "Prep Work",
+      "description": "Soak lentils and kidney beans overnight, then pressure cook until very soft.",
+      "estimatedTime": "14 mins"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Cooking Process",
+      "description": "Heat butter in a pan, add ginger-garlic paste and sauté for a minute.",
+      "estimatedTime": "7 mins"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Cooking Process",
+      "description": "Add tomato puree and cook until the raw smell disappears.",
+      "estimatedTime": "14 mins"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Cooking Process",
+      "description": "Mash the cooked lentils slightly, add to the pan, and simmer on low heat for 30-40 minutes.",
+      "estimatedTime": "5 mins"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Finishing Touches",
+      "description": "Stir in cream and garam masala. Serve hot with naan or rice.",
+      "estimatedTime": "11 mins"
+    }
+  ],
+  "cookingTips": [
+    "For the best Dal Makhani, always use fresh, high-quality ingredients.",
+    "Do not rush the cooking process; allow the flavors to meld naturally.",
+    "Adjust the spices according to your personal taste preference."
+  ],
+  "faq": [
+    {
+      "question": "Can I make Dal Makhani ahead of time?",
+      "answer": "Yes, you can prepare the ingredients in advance, but it's best served fresh."
+    },
+    {
+      "question": "How do I store the leftovers?",
+      "answer": "Store in an airtight container in the refrigerator for up to 3 days."
+    },
+    {
+      "question": "Can I freeze this dish?",
+      "answer": "It is generally not recommended to freeze this as it may alter the texture."
+    }
+  ],
+  "relatedRecipes": [
+    {
+      "title": "Garlic Bread",
+      "slug": "garlic-bread",
+      "image": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?q=80&w=400&auto=format&fit=crop"
+    },
+    {
+      "title": "Cold Coffee",
+      "slug": "cold-coffee",
+      "image": "https://images.unsplash.com/photo-1461023058943-07cb14a6edcb?q=80&w=400&auto=format&fit=crop"
+    }
+  ]
+}

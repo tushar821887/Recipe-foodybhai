@@ -1,0 +1,116 @@
+{
+  "id": "recipe_10",
+  "slug": "greek-salad",
+  "title": "Greek Salad",
+  "description": "A refreshing and healthy Mediterranean salad featuring tomatoes, cucumbers, Kalamata olives, and feta cheese.",
+  "category": "Seasonal Recipes",
+  "cuisine": "Japanese",
+  "difficulty": "Medium",
+  "preparationTime": 10,
+  "cookingTime": 36,
+  "servings": 8,
+  "ingredients": [
+    "3 Tomatoes, chopped",
+    "1 Cucumber, sliced",
+    "1 Red onion, thinly sliced",
+    "1/2 cup Kalamata olives",
+    "150g Feta cheese block",
+    "3 tbsp Extra virgin olive oil",
+    "1 tsp Dried oregano"
+  ],
+  "steps": [
+    "Combine tomatoes, cucumber, red onion, and olives in a shallow bowl.",
+    "Drizzle generously with extra virgin olive oil.",
+    "Sprinkle dried oregano and a pinch of salt over the vegetables.",
+    "Place the block of feta cheese right on top of the salad.",
+    "Serve immediately as a fresh appetizer or side dish."
+  ],
+  "nutrition": {
+    "calories": 759,
+    "protein": 38,
+    "carbs": 18,
+    "fat": 25,
+    "fiber": 11,
+    "sugar": 1,
+    "sodium": 131,
+    "calcium": 61
+  },
+  "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=800&auto=format&fit=crop",
+  "thumbnail": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=400&auto=format&fit=crop",
+  "rating": 3.8,
+  "seoTitle": "Greek Salad Recipe - Best Japanese Seasonal Recipes",
+  "seoDescription": "Learn how to make the best Greek Salad at home. A refreshing and healthy Mediterranean salad featuring tomatoes, cucumbers, Kalamata olives, and feta cheese.",
+  "keywords": [
+    "greek salad",
+    "japanese",
+    "seasonal recipes",
+    "recipe",
+    "food",
+    "cooking"
+  ],
+  "totalTime": 46,
+  "reviewCount": 2353,
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "title": "Prep Work",
+      "description": "Combine tomatoes, cucumber, red onion, and olives in a shallow bowl.",
+      "estimatedTime": "7 mins"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Cooking Process",
+      "description": "Drizzle generously with extra virgin olive oil.",
+      "estimatedTime": "6 mins"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Cooking Process",
+      "description": "Sprinkle dried oregano and a pinch of salt over the vegetables.",
+      "estimatedTime": "9 mins"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Cooking Process",
+      "description": "Place the block of feta cheese right on top of the salad.",
+      "estimatedTime": "9 mins"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Finishing Touches",
+      "description": "Serve immediately as a fresh appetizer or side dish.",
+      "estimatedTime": "14 mins"
+    }
+  ],
+  "cookingTips": [
+    "For the best Greek Salad, always use fresh, high-quality ingredients.",
+    "Do not rush the cooking process; allow the flavors to meld naturally.",
+    "Adjust the spices according to your personal taste preference."
+  ],
+  "faq": [
+    {
+      "question": "Can I make Greek Salad ahead of time?",
+      "answer": "Yes, you can prepare the ingredients in advance, but it's best served fresh."
+    },
+    {
+      "question": "How do I store the leftovers?",
+      "answer": "Store in an airtight container in the refrigerator for up to 3 days."
+    },
+    {
+      "question": "Can I freeze this dish?",
+      "answer": "It is generally not recommended to freeze this as it may alter the texture."
+    }
+  ],
+  "relatedRecipes": [
+    {
+      "title": "Garlic Bread",
+      "slug": "garlic-bread",
+      "image": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?q=80&w=400&auto=format&fit=crop"
+    },
+    {
+      "title": "Cold Coffee",
+      "slug": "cold-coffee",
+      "image": "https://images.unsplash.com/photo-1461023058943-07cb14a6edcb?q=80&w=400&auto=format&fit=crop"
+    }
+  ]
+}

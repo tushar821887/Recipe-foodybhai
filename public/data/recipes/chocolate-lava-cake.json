@@ -1,0 +1,116 @@
+{
+  "id": "recipe_8",
+  "slug": "chocolate-lava-cake",
+  "title": "Chocolate Lava Cake",
+  "description": "A decadent chocolate dessert with a firm cake exterior and a warm, gooey, molten chocolate center.",
+  "category": "Lunch",
+  "cuisine": "Indian",
+  "difficulty": "Easy",
+  "preparationTime": 10,
+  "cookingTime": 54,
+  "servings": 5,
+  "ingredients": [
+    "150g Dark chocolate (70%)",
+    "100g Butter",
+    "3 Eggs",
+    "1/2 cup Sugar",
+    "1/4 cup All-purpose flour",
+    "1 tsp Vanilla extract",
+    "Pinch of salt"
+  ],
+  "steps": [
+    "Preheat oven to 200°C (400°F). Butter and lightly flour ramekins.",
+    "Melt chocolate and butter together in a double boiler until smooth.",
+    "Whisk eggs, sugar, and vanilla in a bowl until thick and pale.",
+    "Fold the melted chocolate into the egg mixture, then gently fold in the flour and salt.",
+    "Divide batter into ramekins and bake for exactly 10-12 minutes. Invert onto a plate and serve warm."
+  ],
+  "nutrition": {
+    "calories": 781,
+    "protein": 37,
+    "carbs": 71,
+    "fat": 26,
+    "fiber": 8,
+    "sugar": 13,
+    "sodium": 668,
+    "calcium": 113
+  },
+  "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=800&auto=format&fit=crop",
+  "thumbnail": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=400&auto=format&fit=crop",
+  "rating": 4.9,
+  "seoTitle": "Chocolate Lava Cake Recipe - Best Indian Lunch",
+  "seoDescription": "Learn how to make the best Chocolate Lava Cake at home. A decadent chocolate dessert with a firm cake exterior and a warm, gooey, molten chocolate center.",
+  "keywords": [
+    "chocolate lava cake",
+    "indian",
+    "lunch",
+    "recipe",
+    "food",
+    "cooking"
+  ],
+  "totalTime": 64,
+  "reviewCount": 1443,
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "title": "Prep Work",
+      "description": "Preheat oven to 200°C (400°F). Butter and lightly flour ramekins.",
+      "estimatedTime": "5 mins"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Cooking Process",
+      "description": "Melt chocolate and butter together in a double boiler until smooth.",
+      "estimatedTime": "7 mins"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Cooking Process",
+      "description": "Whisk eggs, sugar, and vanilla in a bowl until thick and pale.",
+      "estimatedTime": "11 mins"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Cooking Process",
+      "description": "Fold the melted chocolate into the egg mixture, then gently fold in the flour and salt.",
+      "estimatedTime": "12 mins"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Finishing Touches",
+      "description": "Divide batter into ramekins and bake for exactly 10-12 minutes. Invert onto a plate and serve warm.",
+      "estimatedTime": "11 mins"
+    }
+  ],
+  "cookingTips": [
+    "For the best Chocolate Lava Cake, always use fresh, high-quality ingredients.",
+    "Do not rush the cooking process; allow the flavors to meld naturally.",
+    "Adjust the spices according to your personal taste preference."
+  ],
+  "faq": [
+    {
+      "question": "Can I make Chocolate Lava Cake ahead of time?",
+      "answer": "Yes, you can prepare the ingredients in advance, but it's best served fresh."
+    },
+    {
+      "question": "How do I store the leftovers?",
+      "answer": "Store in an airtight container in the refrigerator for up to 3 days."
+    },
+    {
+      "question": "Can I freeze this dish?",
+      "answer": "It is generally not recommended to freeze this as it may alter the texture."
+    }
+  ],
+  "relatedRecipes": [
+    {
+      "title": "Garlic Bread",
+      "slug": "garlic-bread",
+      "image": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?q=80&w=400&auto=format&fit=crop"
+    },
+    {
+      "title": "Cold Coffee",
+      "slug": "cold-coffee",
+      "image": "https://images.unsplash.com/photo-1461023058943-07cb14a6edcb?q=80&w=400&auto=format&fit=crop"
+    }
+  ]
+}

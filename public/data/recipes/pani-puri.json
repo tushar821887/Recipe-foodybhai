@@ -1,0 +1,116 @@
+{
+  "id": "recipe_73",
+  "slug": "pani-puri",
+  "title": "Pani Puri",
+  "description": "A delicious and authentic Pani Puri that brings out the best flavors of Quick Recipes cuisine.",
+  "category": "Quick Recipes",
+  "cuisine": "Japanese",
+  "difficulty": "Hard",
+  "preparationTime": 29,
+  "cookingTime": 18,
+  "servings": 8,
+  "ingredients": [
+    "500g Main ingredient (vegetable/meat/paneer)",
+    "2 Onions, finely chopped",
+    "2 Tomatoes, diced",
+    "1 tbsp Ginger-garlic paste",
+    "2 tbsp Cooking oil or ghee",
+    "Spices (cumin, coriander, turmeric, salt)",
+    "Fresh herbs for garnish"
+  ],
+  "steps": [
+    "Prepare all ingredients by washing, peeling, and chopping as needed.",
+    "Heat oil in a heavy-bottomed pan or skillet over medium heat.",
+    "Sauté the aromatics (onions, ginger, garlic) until golden and fragrant.",
+    "Add the main ingredients and spices, cooking until everything is well combined and fully cooked.",
+    "Garnish with fresh herbs and serve hot."
+  ],
+  "nutrition": {
+    "calories": 595,
+    "protein": 5,
+    "carbs": 48,
+    "fat": 27,
+    "fiber": 2,
+    "sugar": 14,
+    "sodium": 577,
+    "calcium": 143
+  },
+  "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=800&auto=format&fit=crop",
+  "thumbnail": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=400&auto=format&fit=crop",
+  "rating": 3.6,
+  "seoTitle": "Pani Puri Recipe - Best Japanese Quick Recipes",
+  "seoDescription": "Learn how to make the best Pani Puri at home. A delicious and authentic Pani Puri that brings out the best flavors of Quick Recipes cuisine.",
+  "keywords": [
+    "pani puri",
+    "japanese",
+    "quick recipes",
+    "recipe",
+    "food",
+    "cooking"
+  ],
+  "totalTime": 47,
+  "reviewCount": 2278,
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "title": "Prep Work",
+      "description": "Prepare all ingredients by washing, peeling, and chopping as needed.",
+      "estimatedTime": "7 mins"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Cooking Process",
+      "description": "Heat oil in a heavy-bottomed pan or skillet over medium heat.",
+      "estimatedTime": "6 mins"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Cooking Process",
+      "description": "Sauté the aromatics (onions, ginger, garlic) until golden and fragrant.",
+      "estimatedTime": "9 mins"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Cooking Process",
+      "description": "Add the main ingredients and spices, cooking until everything is well combined and fully cooked.",
+      "estimatedTime": "13 mins"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Finishing Touches",
+      "description": "Garnish with fresh herbs and serve hot.",
+      "estimatedTime": "7 mins"
+    }
+  ],
+  "cookingTips": [
+    "For the best Pani Puri, always use fresh, high-quality ingredients.",
+    "Do not rush the cooking process; allow the flavors to meld naturally.",
+    "Adjust the spices according to your personal taste preference."
+  ],
+  "faq": [
+    {
+      "question": "Can I make Pani Puri ahead of time?",
+      "answer": "Yes, you can prepare the ingredients in advance, but it's best served fresh."
+    },
+    {
+      "question": "How do I store the leftovers?",
+      "answer": "Store in an airtight container in the refrigerator for up to 3 days."
+    },
+    {
+      "question": "Can I freeze this dish?",
+      "answer": "It is generally not recommended to freeze this as it may alter the texture."
+    }
+  ],
+  "relatedRecipes": [
+    {
+      "title": "Garlic Bread",
+      "slug": "garlic-bread",
+      "image": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?q=80&w=400&auto=format&fit=crop"
+    },
+    {
+      "title": "Cold Coffee",
+      "slug": "cold-coffee",
+      "image": "https://images.unsplash.com/photo-1461023058943-07cb14a6edcb?q=80&w=400&auto=format&fit=crop"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "recipe_1",
+  "slug": "paneer-butter-masala",
+  "title": "Paneer Butter Masala",
+  "description": "A rich and creamy North Indian curry made with paneer (cottage cheese) cooked in a tomato-onion gravy with butter and cream.",
+  "category": "Desserts",
+  "cuisine": "Thai",
+  "difficulty": "Easy",
+  "preparationTime": 27,
+  "cookingTime": 108,
+  "servings": 7,
+  "ingredients": [
+    "500g Paneer cubes",
+    "3 Tomatoes, pureed",
+    "2 Onions, finely chopped",
+    "2 tbsp Butter",
+    "1/4 cup Heavy Cream",
+    "1 tbsp Ginger-garlic paste",
+    "1 tsp Garam masala",
+    "1 tsp Kasuri methi",
+    "Salt to taste"
+  ],
+  "steps": [
+    "Heat butter in a pan and sauté onions until golden brown.",
+    "Add ginger-garlic paste and tomato puree. Cook until oil separates.",
+    "Add spices and salt. Stir well.",
+    "Add paneer cubes and simmer for 5-7 minutes.",
+    "Finish with heavy cream and crushed kasuri methi. Serve hot with naan or rice."
+  ],
+  "nutrition": {
+    "calories": 732,
+    "protein": 24,
+    "carbs": 75,
+    "fat": 8,
+    "fiber": 4,
+    "sugar": 17,
+    "sodium": 696,
+    "calcium": 105
+  },
+  "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=800&auto=format&fit=crop",
+  "thumbnail": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=400&auto=format&fit=crop",
+  "rating": 3.7,
+  "seoTitle": "Paneer Butter Masala Recipe - Best Thai Desserts",
+  "seoDescription": "Learn how to make the best Paneer Butter Masala at home. A rich and creamy North Indian curry made with paneer (cottage cheese) cooked in a tomato-onion gravy with butter and cream.",
+  "keywords": [
+    "paneer butter masala",
+    "thai",
+    "desserts",
+    "recipe",
+    "food",
+    "cooking"
+  ],
+  "totalTime": 135,
+  "reviewCount": 3227,
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "title": "Prep Work",
+      "description": "Heat butter in a pan and sauté onions until golden brown.",
+      "estimatedTime": "8 mins"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Cooking Process",
+      "description": "Add ginger-garlic paste and tomato puree. Cook until oil separates.",
+      "estimatedTime": "7 mins"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Cooking Process",
+      "description": "Add spices and salt. Stir well.",
+      "estimatedTime": "11 mins"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Cooking Process",
+      "description": "Add paneer cubes and simmer for 5-7 minutes.",
+      "estimatedTime": "13 mins"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Finishing Touches",
+      "description": "Finish with heavy cream and crushed kasuri methi. Serve hot with naan or rice.",
+      "estimatedTime": "7 mins"
+    }
+  ],
+  "cookingTips": [
+    "For the best Paneer Butter Masala, always use fresh, high-quality ingredients.",
+    "Do not rush the cooking process; allow the flavors to meld naturally.",
+    "Adjust the spices according to your personal taste preference."
+  ],
+  "faq": [
+    {
+      "question": "Can I make Paneer Butter Masala ahead of time?",
+      "answer": "Yes, you can prepare the ingredients in advance, but it's best served fresh."
+    },
+    {
+      "question": "How do I store the leftovers?",
+      "answer": "Store in an airtight container in the refrigerator for up to 3 days."
+    },
+    {
+      "question": "Can I freeze this dish?",
+      "answer": "It is generally not recommended to freeze this as it may alter the texture."
+    }
+  ],
+  "relatedRecipes": [
+    {
+      "title": "Garlic Bread",
+      "slug": "garlic-bread",
+      "image": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?q=80&w=400&auto=format&fit=crop"
+    },
+    {
+      "title": "Cold Coffee",
+      "slug": "cold-coffee",
+      "image": "https://images.unsplash.com/photo-1461023058943-07cb14a6edcb?q=80&w=400&auto=format&fit=crop"
+    }
+  ]
+}

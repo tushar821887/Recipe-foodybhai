@@ -1,0 +1,116 @@
+{
+  "id": "recipe_13",
+  "slug": "palak-paneer",
+  "title": "Palak Paneer",
+  "description": "A popular Indian vegetarian dish consisting of paneer in a thick paste made from puréed spinach.",
+  "category": "Lunch",
+  "cuisine": "Chinese",
+  "difficulty": "Medium",
+  "preparationTime": 45,
+  "cookingTime": 107,
+  "servings": 3,
+  "ingredients": [
+    "500g Spinach (Palak), washed and blanched",
+    "250g Paneer, cubed",
+    "1 Onion, finely chopped",
+    "1 Tomato, chopped",
+    "1 tbsp Garlic, minced",
+    "1 tsp Cumin seeds",
+    "2 tbsp Fresh cream"
+  ],
+  "steps": [
+    "Blend the blanched spinach into a smooth puree.",
+    "Heat oil/ghee, temper with cumin seeds, and sauté minced garlic and onions.",
+    "Add tomatoes and cook until soft and mushy.",
+    "Stir in the spinach puree and simmer for 5 minutes.",
+    "Add paneer cubes, mix gently, finish with fresh cream and serve."
+  ],
+  "nutrition": {
+    "calories": 549,
+    "protein": 29,
+    "carbs": 16,
+    "fat": 35,
+    "fiber": 15,
+    "sugar": 18,
+    "sodium": 194,
+    "calcium": 155
+  },
+  "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=800&auto=format&fit=crop",
+  "thumbnail": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=400&auto=format&fit=crop",
+  "rating": 3.9,
+  "seoTitle": "Palak Paneer Recipe - Best Chinese Lunch",
+  "seoDescription": "Learn how to make the best Palak Paneer at home. A popular Indian vegetarian dish consisting of paneer in a thick paste made from puréed spinach.",
+  "keywords": [
+    "palak paneer",
+    "chinese",
+    "lunch",
+    "recipe",
+    "food",
+    "cooking"
+  ],
+  "totalTime": 152,
+  "reviewCount": 1676,
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "title": "Prep Work",
+      "description": "Blend the blanched spinach into a smooth puree.",
+      "estimatedTime": "11 mins"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Cooking Process",
+      "description": "Heat oil/ghee, temper with cumin seeds, and sauté minced garlic and onions.",
+      "estimatedTime": "8 mins"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Cooking Process",
+      "description": "Add tomatoes and cook until soft and mushy.",
+      "estimatedTime": "11 mins"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Cooking Process",
+      "description": "Stir in the spinach puree and simmer for 5 minutes.",
+      "estimatedTime": "5 mins"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Finishing Touches",
+      "description": "Add paneer cubes, mix gently, finish with fresh cream and serve.",
+      "estimatedTime": "14 mins"
+    }
+  ],
+  "cookingTips": [
+    "For the best Palak Paneer, always use fresh, high-quality ingredients.",
+    "Do not rush the cooking process; allow the flavors to meld naturally.",
+    "Adjust the spices according to your personal taste preference."
+  ],
+  "faq": [
+    {
+      "question": "Can I make Palak Paneer ahead of time?",
+      "answer": "Yes, you can prepare the ingredients in advance, but it's best served fresh."
+    },
+    {
+      "question": "How do I store the leftovers?",
+      "answer": "Store in an airtight container in the refrigerator for up to 3 days."
+    },
+    {
+      "question": "Can I freeze this dish?",
+      "answer": "It is generally not recommended to freeze this as it may alter the texture."
+    }
+  ],
+  "relatedRecipes": [
+    {
+      "title": "Garlic Bread",
+      "slug": "garlic-bread",
+      "image": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?q=80&w=400&auto=format&fit=crop"
+    },
+    {
+      "title": "Cold Coffee",
+      "slug": "cold-coffee",
+      "image": "https://images.unsplash.com/photo-1461023058943-07cb14a6edcb?q=80&w=400&auto=format&fit=crop"
+    }
+  ]
+}

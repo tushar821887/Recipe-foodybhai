@@ -1,0 +1,115 @@
+{
+  "id": "recipe_9",
+  "slug": "caesar-salad",
+  "title": "Caesar Salad",
+  "description": "A crisp Romaine lettuce salad tossed with a classic creamy Caesar dressing, croutons, and Parmesan.",
+  "category": "Festival Recipes",
+  "cuisine": "Italian",
+  "difficulty": "Medium",
+  "preparationTime": 25,
+  "cookingTime": 59,
+  "servings": 4,
+  "ingredients": [
+    "1 large head Romaine lettuce",
+    "1 cup Croutons",
+    "1/3 cup Parmesan cheese, shaved",
+    "1/4 cup Caesar dressing",
+    "1 tbsp Lemon juice",
+    "Fresh black pepper"
+  ],
+  "steps": [
+    "Wash, dry, and tear the Romaine lettuce into bite-sized pieces.",
+    "In a large bowl, toss the lettuce with Caesar dressing to coat evenly.",
+    "Add croutons and half of the Parmesan cheese, gently tossing again.",
+    "Transfer to a serving bowl.",
+    "Top with remaining Parmesan, a squeeze of lemon juice, and black pepper."
+  ],
+  "nutrition": {
+    "calories": 594,
+    "protein": 35,
+    "carbs": 59,
+    "fat": 7,
+    "fiber": 13,
+    "sugar": 3,
+    "sodium": 262,
+    "calcium": 179
+  },
+  "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=800&auto=format&fit=crop",
+  "thumbnail": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=400&auto=format&fit=crop",
+  "rating": 3.9,
+  "seoTitle": "Caesar Salad Recipe - Best Italian Festival Recipes",
+  "seoDescription": "Learn how to make the best Caesar Salad at home. A crisp Romaine lettuce salad tossed with a classic creamy Caesar dressing, croutons, and Parmesan.",
+  "keywords": [
+    "caesar salad",
+    "italian",
+    "festival recipes",
+    "recipe",
+    "food",
+    "cooking"
+  ],
+  "totalTime": 84,
+  "reviewCount": 4132,
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "title": "Prep Work",
+      "description": "Wash, dry, and tear the Romaine lettuce into bite-sized pieces.",
+      "estimatedTime": "9 mins"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Cooking Process",
+      "description": "In a large bowl, toss the lettuce with Caesar dressing to coat evenly.",
+      "estimatedTime": "9 mins"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Cooking Process",
+      "description": "Add croutons and half of the Parmesan cheese, gently tossing again.",
+      "estimatedTime": "5 mins"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Cooking Process",
+      "description": "Transfer to a serving bowl.",
+      "estimatedTime": "12 mins"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Finishing Touches",
+      "description": "Top with remaining Parmesan, a squeeze of lemon juice, and black pepper.",
+      "estimatedTime": "5 mins"
+    }
+  ],
+  "cookingTips": [
+    "For the best Caesar Salad, always use fresh, high-quality ingredients.",
+    "Do not rush the cooking process; allow the flavors to meld naturally.",
+    "Adjust the spices according to your personal taste preference."
+  ],
+  "faq": [
+    {
+      "question": "Can I make Caesar Salad ahead of time?",
+      "answer": "Yes, you can prepare the ingredients in advance, but it's best served fresh."
+    },
+    {
+      "question": "How do I store the leftovers?",
+      "answer": "Store in an airtight container in the refrigerator for up to 3 days."
+    },
+    {
+      "question": "Can I freeze this dish?",
+      "answer": "It is generally not recommended to freeze this as it may alter the texture."
+    }
+  ],
+  "relatedRecipes": [
+    {
+      "title": "Garlic Bread",
+      "slug": "garlic-bread",
+      "image": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?q=80&w=400&auto=format&fit=crop"
+    },
+    {
+      "title": "Cold Coffee",
+      "slug": "cold-coffee",
+      "image": "https://images.unsplash.com/photo-1461023058943-07cb14a6edcb?q=80&w=400&auto=format&fit=crop"
+    }
+  ]
+}

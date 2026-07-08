@@ -1,0 +1,114 @@
+{
+  "id": "recipe_65",
+  "slug": "tandoori-chicken",
+  "title": "Tandoori Chicken",
+  "description": "A refreshing and delicious Tandoori Chicken perfect for any time of the day.",
+  "category": "Drinks",
+  "cuisine": "Chinese",
+  "difficulty": "Medium",
+  "preparationTime": 24,
+  "cookingTime": 35,
+  "servings": 3,
+  "ingredients": [
+    "2 cups Base liquid (milk/water/soda)",
+    "2 tbsp Sweetener (sugar/honey)",
+    "Ice cubes",
+    "Flavoring extract or fresh fruits",
+    "Garnish (mint/nuts)"
+  ],
+  "steps": [
+    "Prepare your base ingredients and chill them.",
+    "Combine the liquid base and flavoring in a blender or shaker.",
+    "Blend or shake well until fully mixed and frothy.",
+    "Pour into a tall glass over ice cubes.",
+    "Garnish appropriately and serve immediately."
+  ],
+  "nutrition": {
+    "calories": 436,
+    "protein": 11,
+    "carbs": 39,
+    "fat": 25,
+    "fiber": 9,
+    "sugar": 4,
+    "sodium": 524,
+    "calcium": 179
+  },
+  "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=800&auto=format&fit=crop",
+  "thumbnail": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=400&auto=format&fit=crop",
+  "rating": 3.7,
+  "seoTitle": "Tandoori Chicken Recipe - Best Chinese Drinks",
+  "seoDescription": "Learn how to make the best Tandoori Chicken at home. A refreshing and delicious Tandoori Chicken perfect for any time of the day.",
+  "keywords": [
+    "tandoori chicken",
+    "chinese",
+    "drinks",
+    "recipe",
+    "food",
+    "cooking"
+  ],
+  "totalTime": 59,
+  "reviewCount": 3651,
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "title": "Prep Work",
+      "description": "Prepare your base ingredients and chill them.",
+      "estimatedTime": "11 mins"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Cooking Process",
+      "description": "Combine the liquid base and flavoring in a blender or shaker.",
+      "estimatedTime": "5 mins"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Cooking Process",
+      "description": "Blend or shake well until fully mixed and frothy.",
+      "estimatedTime": "5 mins"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Cooking Process",
+      "description": "Pour into a tall glass over ice cubes.",
+      "estimatedTime": "5 mins"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Finishing Touches",
+      "description": "Garnish appropriately and serve immediately.",
+      "estimatedTime": "13 mins"
+    }
+  ],
+  "cookingTips": [
+    "For the best Tandoori Chicken, always use fresh, high-quality ingredients.",
+    "Do not rush the cooking process; allow the flavors to meld naturally.",
+    "Adjust the spices according to your personal taste preference."
+  ],
+  "faq": [
+    {
+      "question": "Can I make Tandoori Chicken ahead of time?",
+      "answer": "Yes, you can prepare the ingredients in advance, but it's best served fresh."
+    },
+    {
+      "question": "How do I store the leftovers?",
+      "answer": "Store in an airtight container in the refrigerator for up to 3 days."
+    },
+    {
+      "question": "Can I freeze this dish?",
+      "answer": "It is generally not recommended to freeze this as it may alter the texture."
+    }
+  ],
+  "relatedRecipes": [
+    {
+      "title": "Garlic Bread",
+      "slug": "garlic-bread",
+      "image": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?q=80&w=400&auto=format&fit=crop"
+    },
+    {
+      "title": "Cold Coffee",
+      "slug": "cold-coffee",
+      "image": "https://images.unsplash.com/photo-1461023058943-07cb14a6edcb?q=80&w=400&auto=format&fit=crop"
+    }
+  ]
+}

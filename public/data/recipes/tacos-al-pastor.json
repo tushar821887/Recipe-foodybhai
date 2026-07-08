@@ -1,0 +1,116 @@
+{
+  "id": "recipe_7",
+  "slug": "tacos-al-pastor",
+  "title": "Tacos al Pastor",
+  "description": "Authentic Mexican street tacos filled with marinated pork, pineapple, onions, and cilantro.",
+  "category": "Desserts",
+  "cuisine": "Thai",
+  "difficulty": "Medium",
+  "preparationTime": 24,
+  "cookingTime": 76,
+  "servings": 4,
+  "ingredients": [
+    "500g Pork shoulder, thinly sliced",
+    "Al Pastor marinade (chiles, achiote, vinegar)",
+    "1 cup Pineapple chunks",
+    "Small corn tortillas",
+    "1 Onion, finely chopped",
+    "Fresh cilantro",
+    "Lime wedges"
+  ],
+  "steps": [
+    "Marinate the pork slices in Al Pastor marinade overnight.",
+    "Cook the marinated pork in a hot skillet until caramelized and cooked through.",
+    "Grill the pineapple chunks until slightly charred, then chop.",
+    "Warm the corn tortillas on a griddle.",
+    "Assemble tacos with pork, pineapple, onion, and cilantro. Serve with lime."
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 39,
+    "carbs": 10,
+    "fat": 23,
+    "fiber": 8,
+    "sugar": 19,
+    "sodium": 638,
+    "calcium": 199
+  },
+  "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=800&auto=format&fit=crop",
+  "thumbnail": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=400&auto=format&fit=crop",
+  "rating": 4.3,
+  "seoTitle": "Tacos al Pastor Recipe - Best Thai Desserts",
+  "seoDescription": "Learn how to make the best Tacos al Pastor at home. Authentic Mexican street tacos filled with marinated pork, pineapple, onions, and cilantro.",
+  "keywords": [
+    "tacos al pastor",
+    "thai",
+    "desserts",
+    "recipe",
+    "food",
+    "cooking"
+  ],
+  "totalTime": 100,
+  "reviewCount": 2722,
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "title": "Prep Work",
+      "description": "Marinate the pork slices in Al Pastor marinade overnight.",
+      "estimatedTime": "7 mins"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Cooking Process",
+      "description": "Cook the marinated pork in a hot skillet until caramelized and cooked through.",
+      "estimatedTime": "7 mins"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Cooking Process",
+      "description": "Grill the pineapple chunks until slightly charred, then chop.",
+      "estimatedTime": "8 mins"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Cooking Process",
+      "description": "Warm the corn tortillas on a griddle.",
+      "estimatedTime": "6 mins"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Finishing Touches",
+      "description": "Assemble tacos with pork, pineapple, onion, and cilantro. Serve with lime.",
+      "estimatedTime": "8 mins"
+    }
+  ],
+  "cookingTips": [
+    "For the best Tacos al Pastor, always use fresh, high-quality ingredients.",
+    "Do not rush the cooking process; allow the flavors to meld naturally.",
+    "Adjust the spices according to your personal taste preference."
+  ],
+  "faq": [
+    {
+      "question": "Can I make Tacos al Pastor ahead of time?",
+      "answer": "Yes, you can prepare the ingredients in advance, but it's best served fresh."
+    },
+    {
+      "question": "How do I store the leftovers?",
+      "answer": "Store in an airtight container in the refrigerator for up to 3 days."
+    },
+    {
+      "question": "Can I freeze this dish?",
+      "answer": "It is generally not recommended to freeze this as it may alter the texture."
+    }
+  ],
+  "relatedRecipes": [
+    {
+      "title": "Garlic Bread",
+      "slug": "garlic-bread",
+      "image": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?q=80&w=400&auto=format&fit=crop"
+    },
+    {
+      "title": "Cold Coffee",
+      "slug": "cold-coffee",
+      "image": "https://images.unsplash.com/photo-1461023058943-07cb14a6edcb?q=80&w=400&auto=format&fit=crop"
+    }
+  ]
+}

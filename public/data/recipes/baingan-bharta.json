@@ -1,0 +1,116 @@
+{
+  "id": "recipe_25",
+  "slug": "baingan-bharta",
+  "title": "Baingan Bharta",
+  "description": "A delicious and authentic Baingan Bharta that brings out the best flavors of Festival Recipes cuisine.",
+  "category": "Festival Recipes",
+  "cuisine": "Mexican",
+  "difficulty": "Easy",
+  "preparationTime": 38,
+  "cookingTime": 105,
+  "servings": 4,
+  "ingredients": [
+    "500g Main ingredient (vegetable/meat/paneer)",
+    "2 Onions, finely chopped",
+    "2 Tomatoes, diced",
+    "1 tbsp Ginger-garlic paste",
+    "2 tbsp Cooking oil or ghee",
+    "Spices (cumin, coriander, turmeric, salt)",
+    "Fresh herbs for garnish"
+  ],
+  "steps": [
+    "Prepare all ingredients by washing, peeling, and chopping as needed.",
+    "Heat oil in a heavy-bottomed pan or skillet over medium heat.",
+    "Sauté the aromatics (onions, ginger, garlic) until golden and fragrant.",
+    "Add the main ingredients and spices, cooking until everything is well combined and fully cooked.",
+    "Garnish with fresh herbs and serve hot."
+  ],
+  "nutrition": {
+    "calories": 388,
+    "protein": 5,
+    "carbs": 71,
+    "fat": 8,
+    "fiber": 14,
+    "sugar": 12,
+    "sodium": 372,
+    "calcium": 79
+  },
+  "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=800&auto=format&fit=crop",
+  "thumbnail": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=400&auto=format&fit=crop",
+  "rating": 4.7,
+  "seoTitle": "Baingan Bharta Recipe - Best Mexican Festival Recipes",
+  "seoDescription": "Learn how to make the best Baingan Bharta at home. A delicious and authentic Baingan Bharta that brings out the best flavors of Festival Recipes cuisine.",
+  "keywords": [
+    "baingan bharta",
+    "mexican",
+    "festival recipes",
+    "recipe",
+    "food",
+    "cooking"
+  ],
+  "totalTime": 143,
+  "reviewCount": 4265,
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "title": "Prep Work",
+      "description": "Prepare all ingredients by washing, peeling, and chopping as needed.",
+      "estimatedTime": "5 mins"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Cooking Process",
+      "description": "Heat oil in a heavy-bottomed pan or skillet over medium heat.",
+      "estimatedTime": "11 mins"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Cooking Process",
+      "description": "Sauté the aromatics (onions, ginger, garlic) until golden and fragrant.",
+      "estimatedTime": "13 mins"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Cooking Process",
+      "description": "Add the main ingredients and spices, cooking until everything is well combined and fully cooked.",
+      "estimatedTime": "13 mins"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Finishing Touches",
+      "description": "Garnish with fresh herbs and serve hot.",
+      "estimatedTime": "10 mins"
+    }
+  ],
+  "cookingTips": [
+    "For the best Baingan Bharta, always use fresh, high-quality ingredients.",
+    "Do not rush the cooking process; allow the flavors to meld naturally.",
+    "Adjust the spices according to your personal taste preference."
+  ],
+  "faq": [
+    {
+      "question": "Can I make Baingan Bharta ahead of time?",
+      "answer": "Yes, you can prepare the ingredients in advance, but it's best served fresh."
+    },
+    {
+      "question": "How do I store the leftovers?",
+      "answer": "Store in an airtight container in the refrigerator for up to 3 days."
+    },
+    {
+      "question": "Can I freeze this dish?",
+      "answer": "It is generally not recommended to freeze this as it may alter the texture."
+    }
+  ],
+  "relatedRecipes": [
+    {
+      "title": "Garlic Bread",
+      "slug": "garlic-bread",
+      "image": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?q=80&w=400&auto=format&fit=crop"
+    },
+    {
+      "title": "Cold Coffee",
+      "slug": "cold-coffee",
+      "image": "https://images.unsplash.com/photo-1461023058943-07cb14a6edcb?q=80&w=400&auto=format&fit=crop"
+    }
+  ]
+}

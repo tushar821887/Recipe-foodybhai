@@ -1,0 +1,116 @@
+{
+  "id": "recipe_12",
+  "slug": "chole-bhature",
+  "title": "Chole Bhature",
+  "description": "A classic North Indian dish featuring spicy chickpea curry served with deep-fried, fluffy bread.",
+  "category": "Festival Recipes",
+  "cuisine": "Chinese",
+  "difficulty": "Hard",
+  "preparationTime": 21,
+  "cookingTime": 110,
+  "servings": 5,
+  "ingredients": [
+    "1 cup Chickpeas (Kabuli chana), soaked overnight",
+    "2 Onions, finely chopped",
+    "2 Tomatoes, pureed",
+    "2 tbsp Chole masala",
+    "2 cups All-purpose flour (for Bhature)",
+    "1/4 cup Yogurt (for Bhature)",
+    "Oil for deep frying"
+  ],
+  "steps": [
+    "Pressure cook chickpeas until tender.",
+    "Prepare bhature dough by mixing flour, yogurt, and a pinch of salt. Let it rest.",
+    "For chole: sauté onions until brown, add tomato puree and chole masala, cook well.",
+    "Add boiled chickpeas to the masala and simmer until the gravy thickens.",
+    "Roll dough into discs and deep fry in hot oil until puffed. Serve hot with chole."
+  ],
+  "nutrition": {
+    "calories": 495,
+    "protein": 20,
+    "carbs": 64,
+    "fat": 24,
+    "fiber": 3,
+    "sugar": 16,
+    "sodium": 478,
+    "calcium": 148
+  },
+  "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=800&auto=format&fit=crop",
+  "thumbnail": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=400&auto=format&fit=crop",
+  "rating": 4.3,
+  "seoTitle": "Chole Bhature Recipe - Best Chinese Festival Recipes",
+  "seoDescription": "Learn how to make the best Chole Bhature at home. A classic North Indian dish featuring spicy chickpea curry served with deep-fried, fluffy bread.",
+  "keywords": [
+    "chole bhature",
+    "chinese",
+    "festival recipes",
+    "recipe",
+    "food",
+    "cooking"
+  ],
+  "totalTime": 131,
+  "reviewCount": 924,
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "title": "Prep Work",
+      "description": "Pressure cook chickpeas until tender.",
+      "estimatedTime": "10 mins"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Cooking Process",
+      "description": "Prepare bhature dough by mixing flour, yogurt, and a pinch of salt. Let it rest.",
+      "estimatedTime": "6 mins"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Cooking Process",
+      "description": "For chole: sauté onions until brown, add tomato puree and chole masala, cook well.",
+      "estimatedTime": "13 mins"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Cooking Process",
+      "description": "Add boiled chickpeas to the masala and simmer until the gravy thickens.",
+      "estimatedTime": "9 mins"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Finishing Touches",
+      "description": "Roll dough into discs and deep fry in hot oil until puffed. Serve hot with chole.",
+      "estimatedTime": "11 mins"
+    }
+  ],
+  "cookingTips": [
+    "For the best Chole Bhature, always use fresh, high-quality ingredients.",
+    "Do not rush the cooking process; allow the flavors to meld naturally.",
+    "Adjust the spices according to your personal taste preference."
+  ],
+  "faq": [
+    {
+      "question": "Can I make Chole Bhature ahead of time?",
+      "answer": "Yes, you can prepare the ingredients in advance, but it's best served fresh."
+    },
+    {
+      "question": "How do I store the leftovers?",
+      "answer": "Store in an airtight container in the refrigerator for up to 3 days."
+    },
+    {
+      "question": "Can I freeze this dish?",
+      "answer": "It is generally not recommended to freeze this as it may alter the texture."
+    }
+  ],
+  "relatedRecipes": [
+    {
+      "title": "Garlic Bread",
+      "slug": "garlic-bread",
+      "image": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?q=80&w=400&auto=format&fit=crop"
+    },
+    {
+      "title": "Cold Coffee",
+      "slug": "cold-coffee",
+      "image": "https://images.unsplash.com/photo-1461023058943-07cb14a6edcb?q=80&w=400&auto=format&fit=crop"
+    }
+  ]
+}

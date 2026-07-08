@@ -1,0 +1,117 @@
+{
+  "id": "recipe_5",
+  "slug": "pad-thai",
+  "title": "Pad Thai",
+  "description": "A classic Thai stir-fried noodle dish with a sweet, savory, and tangy sauce, topped with crushed peanuts.",
+  "category": "Healthy Recipes",
+  "cuisine": "Italian",
+  "difficulty": "Easy",
+  "preparationTime": 16,
+  "cookingTime": 79,
+  "servings": 5,
+  "ingredients": [
+    "200g Rice noodles",
+    "150g Shrimp or Tofu",
+    "2 Eggs",
+    "1 cup Bean sprouts",
+    "2 tbsp Pad Thai paste",
+    "1 tbsp Fish sauce",
+    "1/4 cup Crushed peanuts",
+    "Lime wedges"
+  ],
+  "steps": [
+    "Soak noodles in warm water until soft, then drain.",
+    "Stir-fry shrimp or tofu in a wok until cooked, push to one side.",
+    "Scramble eggs on the empty side of the wok.",
+    "Add noodles, Pad Thai paste, and fish sauce. Toss everything together.",
+    "Mix in bean sprouts and peanuts. Serve hot with a squeeze of lime."
+  ],
+  "nutrition": {
+    "calories": 751,
+    "protein": 15,
+    "carbs": 49,
+    "fat": 25,
+    "fiber": 13,
+    "sugar": 16,
+    "sodium": 679,
+    "calcium": 154
+  },
+  "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=800&auto=format&fit=crop",
+  "thumbnail": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=400&auto=format&fit=crop",
+  "rating": 4,
+  "seoTitle": "Pad Thai Recipe - Best Italian Healthy Recipes",
+  "seoDescription": "Learn how to make the best Pad Thai at home. A classic Thai stir-fried noodle dish with a sweet, savory, and tangy sauce, topped with crushed peanuts.",
+  "keywords": [
+    "pad thai",
+    "italian",
+    "healthy recipes",
+    "recipe",
+    "food",
+    "cooking"
+  ],
+  "totalTime": 95,
+  "reviewCount": 2791,
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "title": "Prep Work",
+      "description": "Soak noodles in warm water until soft, then drain.",
+      "estimatedTime": "7 mins"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Cooking Process",
+      "description": "Stir-fry shrimp or tofu in a wok until cooked, push to one side.",
+      "estimatedTime": "7 mins"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Cooking Process",
+      "description": "Scramble eggs on the empty side of the wok.",
+      "estimatedTime": "8 mins"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Cooking Process",
+      "description": "Add noodles, Pad Thai paste, and fish sauce. Toss everything together.",
+      "estimatedTime": "6 mins"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Finishing Touches",
+      "description": "Mix in bean sprouts and peanuts. Serve hot with a squeeze of lime.",
+      "estimatedTime": "7 mins"
+    }
+  ],
+  "cookingTips": [
+    "For the best Pad Thai, always use fresh, high-quality ingredients.",
+    "Do not rush the cooking process; allow the flavors to meld naturally.",
+    "Adjust the spices according to your personal taste preference."
+  ],
+  "faq": [
+    {
+      "question": "Can I make Pad Thai ahead of time?",
+      "answer": "Yes, you can prepare the ingredients in advance, but it's best served fresh."
+    },
+    {
+      "question": "How do I store the leftovers?",
+      "answer": "Store in an airtight container in the refrigerator for up to 3 days."
+    },
+    {
+      "question": "Can I freeze this dish?",
+      "answer": "It is generally not recommended to freeze this as it may alter the texture."
+    }
+  ],
+  "relatedRecipes": [
+    {
+      "title": "Garlic Bread",
+      "slug": "garlic-bread",
+      "image": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?q=80&w=400&auto=format&fit=crop"
+    },
+    {
+      "title": "Cold Coffee",
+      "slug": "cold-coffee",
+      "image": "https://images.unsplash.com/photo-1461023058943-07cb14a6edcb?q=80&w=400&auto=format&fit=crop"
+    }
+  ]
+}

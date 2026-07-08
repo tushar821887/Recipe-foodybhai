@@ -1,0 +1,116 @@
+{
+  "id": "recipe_14",
+  "slug": "biryani",
+  "title": "Biryani",
+  "description": "A royal and aromatic mixed rice dish made with Indian spices, basmati rice, and marinated meat or vegetables.",
+  "category": "Lunch",
+  "cuisine": "American",
+  "difficulty": "Medium",
+  "preparationTime": 34,
+  "cookingTime": 26,
+  "servings": 8,
+  "ingredients": [
+    "2 cups Basmati rice, soaked",
+    "500g Chicken/Mutton or Mixed Veggies",
+    "1 cup Yogurt",
+    "2 tbsp Biryani masala",
+    "3 Onions, thinly sliced and fried (Birista)",
+    "Pinch of Saffron soaked in milk",
+    "Whole spices (cardamom, cloves, bay leaf)"
+  ],
+  "steps": [
+    "Marinate the meat/veggies with yogurt, biryani masala, and half the fried onions.",
+    "Parboil the rice with whole spices until 70% cooked. Drain water.",
+    "In a heavy-bottomed pot, layer the marinated mix at the bottom.",
+    "Top with the parboiled rice, drizzle saffron milk, and remaining fried onions.",
+    "Seal the pot and cook on Dum (very low heat) for 20-30 minutes."
+  ],
+  "nutrition": {
+    "calories": 622,
+    "protein": 37,
+    "carbs": 60,
+    "fat": 8,
+    "fiber": 13,
+    "sugar": 17,
+    "sodium": 141,
+    "calcium": 134
+  },
+  "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=800&auto=format&fit=crop",
+  "thumbnail": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=400&auto=format&fit=crop",
+  "rating": 3.9,
+  "seoTitle": "Biryani Recipe - Best American Lunch",
+  "seoDescription": "Learn how to make the best Biryani at home. A royal and aromatic mixed rice dish made with Indian spices, basmati rice, and marinated meat or vegetables.",
+  "keywords": [
+    "biryani",
+    "american",
+    "lunch",
+    "recipe",
+    "food",
+    "cooking"
+  ],
+  "totalTime": 60,
+  "reviewCount": 3936,
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "title": "Prep Work",
+      "description": "Marinate the meat/veggies with yogurt, biryani masala, and half the fried onions.",
+      "estimatedTime": "10 mins"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Cooking Process",
+      "description": "Parboil the rice with whole spices until 70% cooked. Drain water.",
+      "estimatedTime": "8 mins"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Cooking Process",
+      "description": "In a heavy-bottomed pot, layer the marinated mix at the bottom.",
+      "estimatedTime": "14 mins"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Cooking Process",
+      "description": "Top with the parboiled rice, drizzle saffron milk, and remaining fried onions.",
+      "estimatedTime": "6 mins"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Finishing Touches",
+      "description": "Seal the pot and cook on Dum (very low heat) for 20-30 minutes.",
+      "estimatedTime": "9 mins"
+    }
+  ],
+  "cookingTips": [
+    "For the best Biryani, always use fresh, high-quality ingredients.",
+    "Do not rush the cooking process; allow the flavors to meld naturally.",
+    "Adjust the spices according to your personal taste preference."
+  ],
+  "faq": [
+    {
+      "question": "Can I make Biryani ahead of time?",
+      "answer": "Yes, you can prepare the ingredients in advance, but it's best served fresh."
+    },
+    {
+      "question": "How do I store the leftovers?",
+      "answer": "Store in an airtight container in the refrigerator for up to 3 days."
+    },
+    {
+      "question": "Can I freeze this dish?",
+      "answer": "It is generally not recommended to freeze this as it may alter the texture."
+    }
+  ],
+  "relatedRecipes": [
+    {
+      "title": "Garlic Bread",
+      "slug": "garlic-bread",
+      "image": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?q=80&w=400&auto=format&fit=crop"
+    },
+    {
+      "title": "Cold Coffee",
+      "slug": "cold-coffee",
+      "image": "https://images.unsplash.com/photo-1461023058943-07cb14a6edcb?q=80&w=400&auto=format&fit=crop"
+    }
+  ]
+}
